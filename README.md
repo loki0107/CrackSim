@@ -10,4 +10,4 @@ CrackSim is a cybersecurity simulation tool that demonstrates the mechanics of *
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run the app: `python cracker_app.py`
+2. Run the app: `python cracker_app.py`# CrackSim
